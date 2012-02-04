@@ -1,6 +1,7 @@
 /target
 /project/target
 /project/boot
+/project/project
 /project/plugins/target
 /project/plugins/project
 
