@@ -1,1 +1,1 @@
-web: target/start com.sample.Web
+web: target/start $organization$.Web
